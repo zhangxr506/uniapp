@@ -1,0 +1,1 @@
+<view><view class="uni-padding-wrap uni-common-mt"><view><video style="width:100%;" id="myVideo" src="{{src}}" enable-danmu="{{true}}" danmu-btn="{{true}}" controls="{{true}}" data-event-opts="{{[['error',[['videoErrorCallback',['$event']]]]]}}" binderror="__e"></video></view></view></view>
